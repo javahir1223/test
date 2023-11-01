@@ -1,1 +1,7 @@
-print(0+0+1)
+def Juft (a):
+    if a % 2== 0:
+        return True
+    return False
+
+
+
